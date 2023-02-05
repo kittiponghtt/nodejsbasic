@@ -1,0 +1,15 @@
+{
+  "name": "nodjsweb",
+  "version": "1.0.0",
+  "description": "nodejs for web programmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon ./bin/www"
+  },
+  "author": "Kittipong Dev",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
